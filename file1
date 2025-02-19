@@ -7,3 +7,4 @@ else
 echo "bye"
 fi
 echo "triggered fromr epo"
+echo "file poll scm"
