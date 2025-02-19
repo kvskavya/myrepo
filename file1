@@ -6,3 +6,4 @@ echo "hello"
 else
 echo "bye"
 fi
+echo "triggered fromr epo"
